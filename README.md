@@ -1,2 +1,3 @@
 # react-pizza
-React Pizza
+
+<img src="react-pizza-presentation.jpg" style='max-width: 800px' />
